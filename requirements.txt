@@ -1,0 +1,12 @@
+kagglehub
+pandas
+matplotlib
+seaborn
+python-dotenv
+langchain-community
+langchain-google-genai
+transformers
+gradio
+notebook
+ipywidgets
+faiss-cpu

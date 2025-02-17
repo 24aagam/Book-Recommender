@@ -1,0 +1,4 @@
+.env
+bookenv
+books_cleaned.csv
+tagged_description.txt
